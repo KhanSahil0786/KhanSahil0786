@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:172554,45:1D4ED8,75:6D28D9,100:06B6D4&height=300&section=header&text=SAHIL%20KHAN&fontSize=85&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=DATA%20ANALYST%20%7C%20AI%20%26%20ROBOTICS&descSize=22&descAlignY=62"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=1800&pause=600&color=00E5FF&center=true&vCenter=true&width=850&height=65&lines=HELLO%2C+I+AM+SAHIL+KHAN;DATA+ANALYST+%7C+BUSINESS+INTELLIGENCE;B.TECH+CSE+%7C+AI+%26+ROBOTICS;TURNING+DATA+INTO+INTELLIGENCE;BUILDING+THE+FUTURE+WITH+TECHNOLOGY"/>
 
