@@ -28,7 +28,7 @@
 
 ---
 
-# 01. 👨‍💻 ABOUT ME
+# 👨‍💻 ABOUT ME
 
 ### Welcome to my Digital Workspace!
 
@@ -66,7 +66,7 @@ I enjoy exploring how technology, programming and data-driven thinking can solve
 
 ---
 
-# 02. 🎓 EDUCATION & PROFESSIONAL TRAINING
+# 🎓 EDUCATION & PROFESSIONAL TRAINING
 
 ## Academic Background
 
@@ -110,7 +110,7 @@ My learning interests include:
 
 ---
 
-# 03. ⚡ TECHNICAL SKILLS & EXPERTISE
+# ⚡ TECHNICAL SKILLS & EXPERTISE
 
 ## 📊 DATA ANALYTICS
 
@@ -172,7 +172,7 @@ My learning interests include:
 
 ---
 
-# 04. 📈 DATA ANALYTICS WORKSPACE
+# 📈 DATA ANALYTICS WORKSPACE
 
 ### From Raw Data to Business Intelligence
 
@@ -231,7 +231,7 @@ My analytical approach focuses on understanding data, organizing information and
 
 ---
 
-# 05. 🧠 ARTIFICIAL INTELLIGENCE & ROBOTICS
+#  🧠 ARTIFICIAL INTELLIGENCE & ROBOTICS
 
 My B.Tech specialization in AI & Robotics allows me to explore intelligent systems, automation and emerging technologies.
 
@@ -273,7 +273,7 @@ My B.Tech specialization in AI & Robotics allows me to explore intelligent syste
 
 ---
 
-# 06. 🚀 LEARNING & DEVELOPMENT
+# 🚀 LEARNING & DEVELOPMENT
 
 Technology continuously evolves, and I believe continuous learning is essential for professional growth.
 
@@ -301,86 +301,7 @@ Technology continuously evolves, and I believe continuous learning is essential 
 
 ---
 
-# 07. 📂 PROJECT PORTFOLIO
-
-I am building a portfolio of practical projects focused on Data Analytics, Computer Science, AI and Robotics.
-
-## PROJECT 01 — SALES DATA ANALYSIS
-
-<kbd>DATA ANALYTICS</kbd> <kbd>EXCEL</kbd>
-
-**Objective:** Explore sales data and understand business performance.
-
-Key areas:
-
-- Sales performance analysis.
-- Revenue exploration.
-- Product-wise comparisons.
-- Data cleaning.
-- Business insights.
-- Reporting and visualization.
-
-## PROJECT 02 — BUSINESS INTELLIGENCE DASHBOARD
-
-<kbd>BUSINESS INTELLIGENCE</kbd> <kbd>POWER BI</kbd>
-
-**Objective:** Explore business KPIs and create meaningful dashboard concepts.
-
-Key areas:
-
-- KPI monitoring.
-- Business performance.
-- Data visualization.
-- Interactive reporting.
-- Trend exploration.
-
-## PROJECT 03 — SQL BUSINESS ANALYSIS
-
-<kbd>DATABASE</kbd> <kbd>SQL</kbd>
-
-**Objective:** Explore structured datasets using database queries.
-
-Key areas:
-
-- SQL queries.
-- Filtering and sorting.
-- Joins and aggregations.
-- Database relationships.
-- Business data exploration.
-
-## PROJECT 04 — PYTHON DATA ANALYSIS
-
-<kbd>PYTHON</kbd> <kbd>PROGRAMMING</kbd>
-
-**Objective:** Explore data processing and analytical programming.
-
-Key areas:
-
-- Data processing.
-- Python fundamentals.
-- Data manipulation.
-- Analytical problem solving.
-- Automation concepts.
-
-## PROJECT 05 — AI & ROBOTICS EXPLORATION
-
-<kbd>ARTIFICIAL INTELLIGENCE</kbd> <kbd>ROBOTICS</kbd>
-
-**Objective:** Explore intelligent technologies and engineering applications.
-
-Key areas:
-
-- Intelligent system concepts.
-- Robotics fundamentals.
-- Automation applications.
-- AI-based solutions.
-- Engineering problem solving.
-
-> These are portfolio project plans and descriptions, not claims that all five projects are already completed. Add project repository links as you publish your work.
-
----
-
-# 08. 🌐 MY TECHNOLOGY ECOSYSTEM
+#  🌐 MY TECHNOLOGY ECOSYSTEM
 
 <div align="center">
 
@@ -410,7 +331,7 @@ Key areas:
 
 ---
 
-# 09. 🎯 2026–2027 CAREER ROADMAP
+# 🎯 2026–2027 CAREER ROADMAP
 
 ```text
          COMPUTER SCIENCE
@@ -455,7 +376,7 @@ Key areas:
 
 ---
 
-# 10. 📊 GITHUB ANALYTICS DASHBOARD
+# 📊 GITHUB ANALYTICS DASHBOARD
 
 <div align="center">
 
@@ -471,7 +392,7 @@ Key areas:
 
 ---
 
-# 11. 🤝 CONNECT WITH ME
+# 🤝 CONNECT WITH ME
 
 <div align="center">
 
